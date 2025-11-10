@@ -1,0 +1,26 @@
+[
+  {
+    "fullName": "John Doe",
+    "headline": "Senior Data Analyst at XYZ Corp",
+    "followers": 4500,
+    "profilePicture": "https://media.licdn.com/profile/abcd1234.jpg",
+    "education": [
+      {
+        "degree": "MSc Computer Science",
+        "institution": "Stanford University",
+        "year": "2018"
+      }
+    ],
+    "experience": [
+      {
+        "company": "XYZ Corp",
+        "role": "Senior Data Analyst",
+        "duration": "2019 - Present"
+      }
+    ],
+    "location": "San Francisco, CA, USA",
+    "about": "Passionate about data-driven business insights and automation.",
+    "skills": ["Data Analytics", "Python", "SQL"],
+    "profileUrl": "https://www.linkedin.com/in/johndoe/"
+  }
+]
