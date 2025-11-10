@@ -1,0 +1,14 @@
+{
+  "network": {
+    "timeout": 25,
+    "default_user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36",
+    "max_retries": 3,
+    "retry_backoff_seconds": 1.5
+  },
+  "throttling": {
+    "delay_seconds": 1.0
+  },
+  "logging": {
+    "level": "INFO"
+  }
+}
